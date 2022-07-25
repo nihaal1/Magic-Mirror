@@ -14,7 +14,9 @@ https://user-images.githubusercontent.com/63922806/180843421-ce7b41dd-c3d6-4b50-
 
 
 
-
+The "modules" folder has different modules that I use to integrate features.
+Some are basic features like, date time, day local weather. I also added other features that I find useful personally, these include, Personal and work calendar, New from The Times of India, Canvas Announcments posted by professors, Alexa integration, Goog; Photos integration, and Spotify integration. The Spotify Feature shows what song I am current playing and on what device, such as my Smart home speakers.
+The Magic mirror also works with an app that can be used from a mobile phone or laptop to switch the mirror on and off, to change display and other features. 
 
 
 
