@@ -9,5 +9,8 @@ Smart mirror designed and developed to work with IoT devices in my dorm room.
 
 
 
-https://user-images.githubusercontent.com/63922806/180843280-4a535ee2-e1f6-4963-9de0-8dd3932b63b6.mp4
+
+
+
+https://user-images.githubusercontent.com/63922806/180843421-ce7b41dd-c3d6-4b50-affc-feec5ff10570.mp4
 
